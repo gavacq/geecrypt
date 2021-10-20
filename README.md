@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a full stack developer obsessed with client communication, workflow automation, application security, and beautiful design.
+
 <!--
 **geecrypt/geecrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
