@@ -2,6 +2,9 @@
 
 I am a full stack developer obsessed with client communication, workflow automation, application security, and beautiful design.
 
+## Github Analytics
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=geecrypt&show_icons=true&theme=dark)
+
 <!--
 **geecrypt/geecrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
