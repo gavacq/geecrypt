@@ -2,7 +2,7 @@
 
 I'm kind of **obsessed** with
 
-#### 🗣️ Client Communication <br>
+#### 🤝 Client Communication <br>
 
 #### 🤖 Workflow Automation <br>
 
